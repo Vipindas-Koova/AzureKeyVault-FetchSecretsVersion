@@ -21,4 +21,5 @@ appsecretkey - Aftet the app is registered (#2), go to "keys" under API access a
 apptenantid - Tenantid of the Azure subscription. Go to Azure AD and check for directory value within the properties section
 
 Use the below format to run the py file:
+
 ##python getVault.py vault_url appid appsecretkey apptenantid
