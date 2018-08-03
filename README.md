@@ -1,5 +1,5 @@
 # AzureKeyVault-FetchSecretsVersion
-Applicable only for Azure KeyVault. Use this script if you want to print all the secret names and the corresponding version. Useful when you want to have a log with list of secrets used and what version of the same is the latest at the time the script was run. This script can be tweaked to fetch more attributes of the secrets.
+Applicable only for Azure KeyVault. Use this script if you want to print all the secret names and the corresponding version. Useful when you want a log with list of secrets used with version of the same used at the time the script was run. This script can be tweaked to fetch more attributes of the secrets.
 
 Pre-requisites:
 Python installed
